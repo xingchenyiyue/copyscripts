@@ -19,7 +19,7 @@ $.message = "";
 imeiarr = [
    
     "52961C84-705E-4973-933F-669A817E5228",
-    "250D818F-3803-48D1-9F7E-2A5C17E546E3"
+    "C6879822-BA43-4C2E-A3B7-D7F15FC3F8F4"
 ]
 !(async () => {
     await all();
