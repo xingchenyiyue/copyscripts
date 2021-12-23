@@ -1,0 +1,5 @@
+#密码视频管家APP去广告分流规则
+Host,api-access.pangolin-sdk-toutiao.com,REJECT
+Host,log-api.pangolin-sdk-toutiao.com,REJECT
+Host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+Host,hty.0310800.com,REJECT
