@@ -18,8 +18,8 @@ let index
 $.message = "";
 imeiarr = [
    
-    "uck",
-    ""
+    "52961C84-705E-4973-933F-669A817E5228",
+    "250D818F-3803-48D1-9F7E-2A5C17E546E3"
 ]
 !(async () => {
     await all();
