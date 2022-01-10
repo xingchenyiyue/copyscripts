@@ -341,7 +341,7 @@ async function doads(id){
     token = jzreadurl.match(/token=(\S{32})/)[1]
 
     let nm = {
-     url: `https://api.st615.com/v2/article/list?cid=0&page=1&limit=10&type=0&terminal=Apple&version=1.2.3&token=${token}`,
+     url: `https://api.st615.com/v2/article/list?cid=0&page=1&limit=10&type=0&terminal=Apple&version=1.2.8&token=${token}`,
      //body:  `token=`+token,
              headers:{
 'Host': 'api.st615.com',
@@ -509,7 +509,7 @@ async function doads(id){
     token = jzreadurl.match(/token=(\S{32})/)[1]
 
     let nm = {
-     url: `https://api.st615.com/v2/article/list?type=2&cid=35&page=1&terminal=Apple&version=1.2.3&token=`+token,
+     url: `https://api.st615.com/v2/article/list?type=2&cid=35&page=1&terminal=Apple&version=1.2.8&token=`+token,
      //body:  `token=`+token,
              headers:{
 'Host': 'api.st615.com',
@@ -670,7 +670,7 @@ async function doads(id){
     token = jzreadurl.match(/token=(\S{32})/)[1]
 
     let nm = {
-     url: `https://api.st615.com/v2/article/list?type=2&cid=35&page=1&terminal=Apple&version=1.2.3&token=`+token,
+     url: `https://api.st615.com/v2/article/list?type=2&cid=35&page=1&terminal=Apple&version=1.2.8&token=`+token,
      //body:  `token=`+token,
              headers:{
 'Host': 'api.st615.com',
