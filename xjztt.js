@@ -153,7 +153,8 @@ async function benefit(){
 
 'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
-
+'noncestr': '7gFlxn2jHWGI5aMD',
+'sign': '4fef1558194dd170b508fa655def3935',
       }
         
     }
