@@ -151,7 +151,7 @@ async function benefit(){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }
@@ -191,7 +191,7 @@ let nm = {
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }
@@ -229,7 +229,7 @@ async function doublesign(){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }
@@ -267,7 +267,7 @@ async function info(){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       } 
@@ -310,7 +310,7 @@ async function doads(id){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }  
@@ -348,7 +348,7 @@ async function doads(id){
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 'Accept': '*/*',
 'Connection':' keep-alive',
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Encoding':' gzip, deflate',
 
       } 
@@ -397,7 +397,7 @@ async function doads(id){
 //'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }   
@@ -439,7 +439,7 @@ async function doads(id){
 'Content-Type': 'application/x-www-form-urlencoded; charset=utf-8',
 'Accept': '*/*',
 'Connection':' keep-alive',
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Encoding':' gzip, deflate',
 
       }   
@@ -478,7 +478,7 @@ async function doads(id){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }   
@@ -516,7 +516,7 @@ async function doads(id){
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 'Accept': '*/*',
 'Connection':' keep-alive',
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Encoding':' gzip, deflate',
 
       } 
@@ -562,7 +562,7 @@ async function doads(id){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }  
@@ -600,7 +600,7 @@ async function doads(id){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       } 
@@ -638,7 +638,7 @@ async function doads(id){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }   
@@ -677,7 +677,7 @@ async function doads(id){
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 'Accept': '*/*',
 'Connection':' keep-alive',
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Encoding':' gzip, deflate',
 
       } 
@@ -723,7 +723,7 @@ async function doads(id){
 'Content-Type':' application/x-www-form-urlencoded; charset=utf-8',
 
 
-'User-Agent': 'ChapterNine/1.2.3 (com.ass.jiuzhang; build:1120; iOS 14.3.0) Alamofire/5.4.2',
+'User-Agent': 'ChapterNine/1.2.8 (com.ass.jiuzhang; build:1137; iOS 14.3.0) Alamofire/5.4.4',
 'Accept-Language': 'zh-Hans-CN;q=1.0, zh-Hant-HK;q=0.9, zh-Hant-CN;q=0.8',
 
       }  
